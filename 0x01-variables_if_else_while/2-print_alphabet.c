@@ -5,21 +5,20 @@
  *
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
-        char alp[26] = "abcdefghijklmnopqrstuvwxyz";
+	// Use tabs for indentation
+	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
+	int i;
 
-        int i;
+	for (i = 0; i < 26; i++)
+	{
+		putchar(alp[i]);
+	}
 
+	putchar('\n');
 
-        for (i = 0; i < 26; i++)
-
-        {
-
-                putchar(alp[i]);
-        }
-
-        putchar('\n');
-
-        return (0);
+	return (0);
 }
+
