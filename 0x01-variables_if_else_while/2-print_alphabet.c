@@ -8,7 +8,6 @@
 
 int main(void)
 {
-	// Use tabs for indentation
 	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
