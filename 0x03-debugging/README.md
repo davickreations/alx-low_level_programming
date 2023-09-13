@@ -1,0 +1,1 @@
+The purpose of this repository is to practice debugging C code using a variety of tools and techniques. Debugging is a crucial skill for any programmer, as it helps identify and fix errors or issues in code, ensuring that it functions as intended.
