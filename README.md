@@ -1,1 +1,1 @@
-This is the resd me for my low level programming
+This is the read me file for this pointer project
